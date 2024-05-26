@@ -1,4 +1,4 @@
-# PRODIGY_ML_01: House Price Prediction
+# House Price Prediction
 
 Welcome to the PRODIGY_ML_01 repository! This project focuses on predicting house prices using machine learning techniques. The dataset used is from the [Kaggle House Prices - Advanced Regression Techniques competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
 
